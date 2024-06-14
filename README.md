@@ -1,3 +1,5 @@
+# using https://www.zoomeye.hk/ web site with search "wp-content/plugins/wp-automatic"
+
 # CVE-2024-27956-RCE
 A PoC for CVE-2024-27956, a SQL Injection in ValvePress Automatic plugin. This PoC exploit the vulnerability creating a user in the target and giving Administrator rights. Being an administrator in wordpress can lead to Remote Code Execution.
 
